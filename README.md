@@ -21,3 +21,4 @@ hei hei 🇳🇴
 ## Totalt frislepp
 
 
+## Ny galskap
