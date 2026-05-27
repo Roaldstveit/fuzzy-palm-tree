@@ -23,4 +23,11 @@ hei hei 🇳🇴
 
 ## Ny galskap
 
-## Pål er på tur
+## Pål sine båt senarioer 
+|Type båt | Lengde |  Pål's vurdering |
+|:--------:|:--------:| :--------:| 
+|Skjærgårsjeep|14 fot|Ypperlig|
+|Cabincruiser|28 fot|Plastjolle|
+|Katamaran|50 fot|Støttehjulsbåt|
+
+## Pål på tur
