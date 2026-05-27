@@ -11,11 +11,15 @@ hei hei 🇳🇴
 
 
 ### Liste over ingen ting fornuftig
+<details>
+  <summary>Liste over linjer</summary>
+  
 - Fyste linje - Andre linje - Tredje linje
 - Andre linje
 - **Tredje linje**
 - _Fjerde linje_
 - **Femte _linje_ satt**
+</details>
 
 > Nytt kapitell kjem no
 ## Totalt frislepp
