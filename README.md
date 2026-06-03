@@ -61,3 +61,6 @@ Hvert rapporteringsår gjelder fra og med 1.januar til og med 31.desember samme 
 |:------|:------|:------|
 |Hovedoppgave|Årsoppgaven som sendes for et gitt år| |
 |Endringsoppgave|Utarbeides dersom man har gjort endringer på et avsluttet rapporteringsår. Beløp i endringsoppgave oppfattes som et tillegg til beløp i hovedoppgaven| |
+
+### Sidespor
+Enkel endring <details> <Summary> Enkeltspor </Summary> To tog, på ei linje, eller to linjer med eit tog. </details> 
