@@ -25,12 +25,10 @@ title: Brukarveiledning for Ray-Ray
 
    </details>
 
-<details>
-  <summary>SFU - Skattefrie utbetalinger</summary>
+
 SFU - Skattefrie utbetalinger
 
 - Nav har krav om å rapportere SFU årlig.
 - Rapporteres til Grunnalgsdata som er en anne avdeling i Skatteetaten enn dit A-ordningen rapporteres.
 - Vanligvis rapporterer NAV SFU den 1. hver måned. I tilfeller hvor dette falle på en rød-dag/helg kan rapportering bli utsatt til første påfølgende virkedag.
 
-</details>
