@@ -1,3 +1,25 @@
+---
+layout: default
+title: Heim
+---
+
+## Introduksjon
+
+Velkommen 👋
+
+## Installasjon
+
+Slik gjer du det:
+
+### Steg 1
+Installer ting
+
+### Steg 2
+Kjør kode
+
+## Bruk
+
+Korleis bruke systemet
 
 # fuzzy-palm-tree
 To lange sider
