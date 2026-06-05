@@ -1,0 +1,10 @@
+
+sidebar:
+  - title: Heim
+    url: /
+  - title: Om prosjektet
+    url: /om
+  - title: Kapittel 1
+    url: /kapittel1
+  - title: Kapittel 2
+    url: /kapittel2
