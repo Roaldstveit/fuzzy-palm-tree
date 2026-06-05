@@ -4,9 +4,12 @@ layout: default
 title: Heim
 ---
 
+
 ## Velkommen
 
 Dette er framsida
+
+[Gå til Brukerveledning](./brukerveiledning)
 
 ## fuzzy-palm-tree
 
