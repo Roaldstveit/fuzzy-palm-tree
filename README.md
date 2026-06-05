@@ -1,8 +1,3 @@
----
-layout: default
-title: Heim
----
-
 
 # fuzzy-palm-tree
 
