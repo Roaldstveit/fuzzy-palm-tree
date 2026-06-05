@@ -9,7 +9,7 @@ title: Heim
 
 Dette er framsida
 
-[Gå til Brukerveledning](./brukerveiledning)
+[Gå til Brukerveledning](.fuzzy-palm-tree/brukerveiledning)
 
 ## fuzzy-palm-tree
 
