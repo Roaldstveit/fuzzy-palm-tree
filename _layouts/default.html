@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+  <!-- Sidebar -->
+  <nav class="sidebar">
+    <h2>Innhald</h2>
+    {{ content | toc }}
+  </nav>
+
+  <!-- Content -->
+  <main class="content">
+    {{ content }}
+  </main>
+
+</div>
+
+</body>
+</html>
