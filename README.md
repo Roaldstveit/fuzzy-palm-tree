@@ -14,6 +14,7 @@ hei hei 🇳🇴
 
 
 ### Liste over ingen ting fornuftig
+
 <details>
   <summary>Liste over linjer</summary>
   
@@ -25,6 +26,7 @@ hei hei 🇳🇴
 </details>
 
 > Nytt kapitell kjem no
+
 ## Totalt frislepp
 
 
