@@ -1,5 +1,3 @@
-theme: just-the-docs
-
 
 # fuzzy-palm-tree
 To lange sider
