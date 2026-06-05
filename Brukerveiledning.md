@@ -3,7 +3,7 @@ layout: default
 title: Brukarveiledning for Ray-Ray
 ---
 
-[Gå til heim](/fuzzy-palm-tree/)
+[Gå til heim](README.md)
 
 ## Tidspunkt for rapportering til A-ordningen
 
