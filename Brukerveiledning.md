@@ -10,9 +10,9 @@ title: Brukarveiledning for Ray-Ray
 
 ### A-ordningen
 
-- [x] Nav har krav om å rapportere foregående måned innen den 5. i inneværende måned.
-* Vanligivs rapporterer Nav til A-ordningen den 1. og den 20. hver måned. I tilfeller hvor dette faller på en rød-dag/helg kan rapportering bli utsatt til første påfølgende virkedag.
-* Grunnen for å rapportere 2 ganger hver måned er for å redusere belastningen inn mot Skatteetaten sine systemer pga Nav sitt store volum.
+- Nav har krav om å rapportere foregående måned innen den 5. i inneværende måned.
+- Vanligivs rapporterer Nav til A-ordningen den 1. og den 20. hver måned. I tilfeller hvor dette faller på en rød-dag/helg kan rapportering bli utsatt til første påfølgende virkedag.
+- Grunnen for å rapportere 2 ganger hver måned er for å redusere belastningen inn mot Skatteetaten sine systemer pga Nav sitt store volum.
 
 
 ### SFU - Skattefrie utbetalinger
