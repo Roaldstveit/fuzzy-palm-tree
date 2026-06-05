@@ -1,6 +1,4 @@
-layout: page
-title: "Pål destillert på trefat"
-permalink: /roaldstveit.github.io/fuzzy-palm-tree/
+theme: just-the-docs
 
 
 # fuzzy-palm-tree
