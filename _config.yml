@@ -1,0 +1,7 @@
+title: Fuzzy Palm Tree
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  toc_levels: 2..3
