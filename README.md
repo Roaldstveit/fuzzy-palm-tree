@@ -1,5 +1,14 @@
 
-# fuzzy-palm-tree
+---
+layout: default
+title: Heim
+---
+
+## Velkommen
+
+Dette er framsida
+
+## fuzzy-palm-tree
 
 To lange sider
 
