@@ -28,6 +28,7 @@ hei hei 🇳🇴
 ## Ny galskap
 
 ## Pål sine båt senarioer 
+
 |Type båt | Lengde |  Pål's vurdering |
 |:--------:|:--------:| :--------:| 
 |Skjærgårsjeep|14 fot|Ypperlig|
@@ -44,6 +45,7 @@ hei hei 🇳🇴
 
 
 ## Begreper relatert til A-ordningen
+
 |**Begrep**|**Forklaring**|**Referanse**|
 |:------|:------|:------|
 |A-melding|Melding for rapportering av ytelser til A-ordningen| |
@@ -57,6 +59,7 @@ hei hei 🇳🇴
 
 ## Årsoppgave
 Hvert rapporteringsår gjelder fra og med 1.januar til og med 31.desember samme år. Det skal utarbeides en oppstilling av alle utbetalinger og trekk gjennomført til hver enkelt bruker. Oppstillingen heter Årsoppgave. Vi skiller på to typer årsoppgaver.
+
 |**Begrep**|**Forklaring**|**Referanse**|
 |:------|:------|:------|
 |Hovedoppgave|Årsoppgaven som sendes for et gitt år| |
