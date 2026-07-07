@@ -81,3 +81,12 @@ Hvert rapporteringsår gjelder fra og med 1.januar til og med 31.desember samme 
 
 ### Sidespor
 Enkel endring <details> <Summary> Enkeltspor </Summary> To tog, på ei linje, eller to linjer med eit tog. </details> 
+
+
+```mermaid
+graph TD;
+A-->B;
+A-->C;
+B-->D;
+C-->D;
+```
